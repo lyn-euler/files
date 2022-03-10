@@ -1,0 +1,6 @@
+framework module LazyDylibTest {
+  umbrella header "LazyDylibTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
